@@ -4,9 +4,14 @@ RULES :
 
 1. All contributions are in subclasses are partitioned
  based on programming languege
+
 2. in second sub directory subclasses are partitioned
 based on algorithm 
-pls initialize your algorithm folders with a readme file that 
+
+3.Copy data to your project folder please dont ruin the 
+main data. 
+
+4.pls initialize your algorithm folders with a readme file that 
 contains following information : 
 				1.Accuracy
 				2.Name of algorithm
